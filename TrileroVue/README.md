@@ -25,7 +25,7 @@ Se trata de montar las diferentes animaciones, que sean responsive y desatrrolla
 Ver Notas.md delproyecto en el link; para ver el proyecto chutando, instalarlo, instalar node_modules y npm run dev
  
 
-This template should help get you started developing with Vue 3 in Vite.
+## This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
